@@ -2,13 +2,13 @@
   "homepage": "https://ipunsoumya.github.io/personal-portfolio-lite",
   "files": {
     "main.css": "/personal-portfolio-lite/static/css/main.222079fe.css",
-    "main.js": "/personal-portfolio-lite/static/js/main.eeacc6f9.js",
+    "main.js": "/personal-portfolio-lite/static/js/main.fdc1e227.js",
     "index.html": "/personal-portfolio-lite/index.html",
     "main.222079fe.css.map": "/personal-portfolio-lite/static/css/main.222079fe.css.map",
-    "main.eeacc6f9.js.map": "/personal-portfolio-lite/static/js/main.eeacc6f9.js.map"
+    "main.fdc1e227.js.map": "/personal-portfolio-lite/static/js/main.fdc1e227.js.map"
   },
   "entrypoints": [
     "static/css/main.222079fe.css",
-    "static/js/main.eeacc6f9.js"
+    "static/js/main.fdc1e227.js"
   ]
 }
